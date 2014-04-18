@@ -3,3 +3,5 @@ Makefile.*
 object_script.*
 .obj
 FontBuilder.pro.user
+FontBuilder.app
+out
